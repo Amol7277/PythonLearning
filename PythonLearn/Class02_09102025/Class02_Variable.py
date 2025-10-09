@@ -14,6 +14,8 @@ print(A[1],end="\n")
 A= True
 B= False
 print(A,end="\n")
+print(B,end="\n")
 
 _Amol= 7277
 print(_Amol)
+
