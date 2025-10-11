@@ -1,0 +1,5 @@
+Amol_Sonar_have_roles_royal_car_in_his_dream = True
+print(Amol_Sonar_have_roles_royal_car_in_his_dream)
+
+Amol_Sonar_have_roles_royal_car_in_his_dream = False
+print(Amol_Sonar_have_roles_royal_car_in_his_dream)

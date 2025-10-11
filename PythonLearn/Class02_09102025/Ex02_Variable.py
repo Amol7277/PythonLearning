@@ -19,3 +19,4 @@ print(B,end="\n")
 _Amol= 7277
 print(_Amol)
 
+
