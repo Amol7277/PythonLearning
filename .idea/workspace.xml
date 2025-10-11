@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00b82db0-1e1e-40a6-a381-f9b409e46dfe" name="Changes" comment="" />
+    <list default="true" id="00b82db0-1e1e-40a6-a381-f9b409e46dfe" name="Changes" comment="Commit 09/10/2025">
+      <change afterPath="$PROJECT_DIR$/PythonLearn/Class01_07102025/Ex01_Print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex01_VariableNames&amp;Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex02_DynamicTyped.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex03_Identifire_Rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex04_Maths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex05_Multiple_Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex06_ConvertType.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex07_Variables&amp;Literal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex08_DataTypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex09_UserInput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonLearn/Class01_07102025/Class01_Print.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonLearn/Class02_09102025/Class02_PrintFun.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearn/Class02_09102025/Ex01_PrintFun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonLearn/Class02_09102025/Class02_Variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearn/Class02_09102025/Ex02_Variable.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,15 +44,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Class071025_01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Class01_Print (1).executor": "Run",
+    "Python.Class02_Print.executor": "Run",
+    "Python.Class02_Variable.executor": "Run",
+    "Python.Class03_DynamicTyped.executor": "Run",
+    "Python.Class03_Identifire_Rule.executor": "Run",
+    "Python.Class03_VariableNames&Types.executor": "Run",
+    "Python.Class071025_01.executor": "Run",
+    "Python.Ex04_Maths.executor": "Run",
+    "Python.Ex05_Multiple_Variables.executor": "Run",
+    "Python.Ex06_ConvertType.executor": "Run",
+    "Python.Ex09_UserInput.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Class071025_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class01_07102025" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Ex09_UserInput">
+    <configuration name="Ex03_Identifire_Rule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,11 +76,99 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class03_11102025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class071025_01.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class03_11102025\Ex03_Identifire_Rule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex04_Maths" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class03_11102025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex04_Maths.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex05_Multiple_Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class03_11102025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex05_Multiple_Variables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex06_ConvertType" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class03_11102025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex06_ConvertType.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex09_UserInput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class03_11102025" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex09_UserInput.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Class071025_01" />
+        <item itemvalue="Python.Ex09_UserInput" />
+        <item itemvalue="Python.Ex06_ConvertType" />
+        <item itemvalue="Python.Ex04_Maths" />
+        <item itemvalue="Python.Ex05_Multiple_Variables" />
+        <item itemvalue="Python.Ex03_Identifire_Rule" />
       </list>
     </recent_temporary>
   </component>
@@ -97,12 +219,54 @@
       <option name="project" value="LOCAL" />
       <updated>1759949227355</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test1">
+      <option name="closed" value="true" />
+      <created>1759949308165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759949308165</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test2">
+      <option name="closed" value="true" />
+      <created>1759949544451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759949544451</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test2">
+      <option name="closed" value="true" />
+      <created>1760035309027</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760035309027</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit 09/10/2025">
+      <option name="closed" value="true" />
+      <created>1760035348417</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760035348417</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit 09/10/2025">
+      <option name="closed" value="true" />
+      <created>1760035449141</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760035449141</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <MESSAGE value="Test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test1" />
+    <MESSAGE value="Test2" />
+    <MESSAGE value="Commit 09/10/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 09/10/2025" />
   </component>
 </project>
