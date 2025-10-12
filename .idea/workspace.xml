@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00b82db0-1e1e-40a6-a381-f9b409e46dfe" name="Changes" comment="Commit 09/10/2025">
-      <change afterPath="$PROJECT_DIR$/PythonLearn/Class01_07102025/Ex01_Print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex01_VariableNames&amp;Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex02_DynamicTyped.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex03_Identifire_Rule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex04_Maths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex05_Multiple_Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex06_ConvertType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex07_Variables&amp;Literal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex08_DataTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex09_UserInput.py" afterDir="false" />
+    <list default="true" id="00b82db0-1e1e-40a6-a381-f9b409e46dfe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonLearn/Class01_07102025/Class01_Print.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonLearn/Class02_09102025/Class02_PrintFun.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearn/Class02_09102025/Ex01_PrintFun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonLearn/Class02_09102025/Class02_Variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearn/Class02_09102025/Ex02_Variable.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +44,11 @@
     "Python.Ex05_Multiple_Variables.executor": "Run",
     "Python.Ex06_ConvertType.executor": "Run",
     "Python.Ex09_UserInput.executor": "Run",
+    "Python.Ex10_String.executor": "Run",
+    "Python.Ex11_StringFunction.executor": "Run",
+    "Python.Ex12_StringConvertion.executor": "Run",
+    "Python.Ex_13_EsacapFunction.executor": "Run",
+    "Python.Ex_14_AbsoluteF.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -66,8 +58,8 @@
       <recent name="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class01_07102025" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex09_UserInput">
-    <configuration name="Ex03_Identifire_Rule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ex_14_AbsoluteF">
+    <configuration name="Ex10_String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class03_11102025\Ex03_Identifire_Rule.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex10_String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex04_Maths" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex11_StringFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex04_Maths.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex11_StringFunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex05_Multiple_Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex12_StringConvertion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex05_Multiple_Variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex12_StringConvertion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex06_ConvertType" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex_13_EsacapFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex06_ConvertType.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex_13_EsacapFunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex09_UserInput" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex_14_AbsoluteF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex09_UserInput.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex_14_AbsoluteF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex09_UserInput" />
-        <item itemvalue="Python.Ex06_ConvertType" />
-        <item itemvalue="Python.Ex04_Maths" />
-        <item itemvalue="Python.Ex05_Multiple_Variables" />
-        <item itemvalue="Python.Ex03_Identifire_Rule" />
+        <item itemvalue="Python.Ex_14_AbsoluteF" />
+        <item itemvalue="Python.Ex_13_EsacapFunction" />
+        <item itemvalue="Python.Ex12_StringConvertion" />
+        <item itemvalue="Python.Ex11_StringFunction" />
+        <item itemvalue="Python.Ex10_String" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +251,31 @@
       <option name="project" value="LOCAL" />
       <updated>1760035449141</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit 09/10/2025">
+      <option name="closed" value="true" />
+      <created>1760210090394</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760210090396</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit 11/10/2025">
+      <option name="closed" value="true" />
+      <created>1760210123683</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760210123683</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit 11/10/2025">
+      <option name="closed" value="true" />
+      <created>1760210247130</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760210247130</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -267,6 +283,7 @@
     <MESSAGE value="Test1" />
     <MESSAGE value="Test2" />
     <MESSAGE value="Commit 09/10/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 09/10/2025" />
+    <MESSAGE value="Commit 11/10/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 11/10/2025" />
   </component>
 </project>
