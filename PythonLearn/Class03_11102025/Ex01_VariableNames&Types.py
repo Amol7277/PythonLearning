@@ -17,5 +17,7 @@ print(type(A_Complex),end="\n\n")  #<class 'complex'>
 print(type(A_Complex.real),end="\n\n")  #<class 'float'>
 
 print(type(A_Complex.imag),end="\n\n")  #<class 'float'>
+print(type(A_Complex.conjugate()),end="\n\n")  #<class 'float'>
+print((A_Complex.conjugate()),end="\n\n")  #<class 'float'>
 
 print((type(A_Integer), type(A_String), type(A_Float), type(A_Boolean), type(A_Complex), type(A_Complex.real)))
