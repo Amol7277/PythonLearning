@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="00b82db0-1e1e-40a6-a381-f9b409e46dfe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex01_VariableNames&amp;Types.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex01_VariableNames&amp;Types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex_14_AbsoluteF.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex_14_AbsoluteF.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +23,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Amol7277&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Amol7277/pythonProject1.git&quot;,
+    &quot;accountId&quot;: &quot;bc657ddf-d13a-4f84-af78-2f3e072be1e3&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="33kXWDb8Zx9lUg7T22fuTfLcVgp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,18 +52,27 @@
     "Python.Class03_Identifire_Rule.executor": "Run",
     "Python.Class03_VariableNames&Types.executor": "Run",
     "Python.Class071025_01.executor": "Run",
+    "Python.Ex01_IF_Condition.executor": "Run",
     "Python.Ex01_MathBy3UserInput.executor": "Run",
     "Python.Ex01_VariableNames&Types.executor": "Run",
     "Python.Ex02_Arithmetic_Operator.executor": "Run",
+    "Python.Ex02_IFelse_prg.executor": "Run",
     "Python.Ex03_Comparision_Operator.executor": "Run",
+    "Python.Ex03_If_Else_3IP_MaxNumberPrg.executor": "Run",
+    "Python.Ex03_If_Else_MaxNumberPrg.executor": "Run",
     "Python.Ex04_Maths.executor": "Run",
     "Python.Ex04_Unary_Operator.executor": "Run",
+    "Python.Ex05_If_Else_Grade_Calculator.executor": "Run",
     "Python.Ex05_Logical_Operator.executor": "Run",
     "Python.Ex05_Multiple_Variables.executor": "Run",
     "Python.Ex06_Assignment_Operator.executor": "Run",
     "Python.Ex06_ConvertType.executor": "Run",
+    "Python.Ex06_If_Else_API_Response.executor": "Run",
+    "Python.Ex07_If_Else_UserLogin.executor": "Run",
     "Python.Ex07_Membership_Operator.executor": "Run",
+    "Python.Ex08_If_Else_PageLoadTime.executor": "Run",
     "Python.Ex08_Ternary_Operator.executor": "Run",
+    "Python.Ex09_If_Else_TestCaseResult.executor": "Run",
     "Python.Ex09_TriangleArea.executor": "Run",
     "Python.Ex09_UserInput.executor": "Run",
     "Python.Ex10_CheckNumber.executor": "Run",
@@ -65,16 +83,22 @@
     "Python.Ex_14_AbsoluteF.executor": "Run",
     "Python.task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PythonLearning/pythonProject1/PythonLearn/Class05_16102025",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class05_16102025" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class01_07102025" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex10_CheckNumber">
-    <configuration name="Ex06_Assignment_Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ex09_If_Else_TestCaseResult">
+    <configuration name="Ex01_IF_Condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class04_14102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class05_16102025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class04_14102025/Ex06_Assignment_Operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class05_16102025/Ex01_IF_Condition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex07_Membership_Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex06_If_Else_API_Response" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class04_14102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class05_16102025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class04_14102025/Ex07_Membership_Operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class05_16102025/Ex06_If_Else_API_Response.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex08_Ternary_Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex07_If_Else_UserLogin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class04_14102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class05_16102025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class04_14102025/Ex08_Ternary_Operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class05_16102025/Ex07_If_Else_UserLogin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex09_TriangleArea" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex08_If_Else_PageLoadTime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class04_14102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class05_16102025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class04_14102025/Ex09_TriangleArea.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class05_16102025/Ex08_If_Else_PageLoadTime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex10_CheckNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex09_If_Else_TestCaseResult" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class04_14102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class05_16102025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class04_14102025/Ex10_CheckNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class05_16102025/Ex09_If_Else_TestCaseResult.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,18 +210,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex10_CheckNumber" />
-        <item itemvalue="Python.Ex09_TriangleArea" />
-        <item itemvalue="Python.Ex08_Ternary_Operator" />
-        <item itemvalue="Python.Ex07_Membership_Operator" />
-        <item itemvalue="Python.Ex06_Assignment_Operator" />
+        <item itemvalue="Python.Ex09_If_Else_TestCaseResult" />
+        <item itemvalue="Python.Ex08_If_Else_PageLoadTime" />
+        <item itemvalue="Python.Ex07_If_Else_UserLogin" />
+        <item itemvalue="Python.Ex06_If_Else_API_Response" />
+        <item itemvalue="Python.Ex01_IF_Condition" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
   </component>
@@ -298,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760292849474</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commit 14/10/2025">
+      <option name="closed" value="true" />
+      <created>1760553644658</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1760553644658</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -308,6 +340,7 @@
     <MESSAGE value="Commit 09/10/2025" />
     <MESSAGE value="Commit 11/10/2025" />
     <MESSAGE value="Commit 12/10/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 12/10/2025" />
+    <MESSAGE value="Commit 14/10/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 14/10/2025" />
   </component>
 </project>
