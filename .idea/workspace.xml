@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00b82db0-1e1e-40a6-a381-f9b409e46dfe" name="Changes" comment="">
+    <list default="true" id="00b82db0-1e1e-40a6-a381-f9b409e46dfe" name="Changes" comment="16/10/2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +53,17 @@
     "Python.Class03_VariableNames&Types.executor": "Run",
     "Python.Class071025_01.executor": "Run",
     "Python.Ex01_IF_Condition.executor": "Run",
+    "Python.Ex01_Loop_Reverse.executor": "Run",
     "Python.Ex01_MathBy3UserInput.executor": "Run",
+    "Python.Ex01_PrintFun.executor": "Run",
     "Python.Ex01_VariableNames&Types.executor": "Run",
     "Python.Ex02_Arithmetic_Operator.executor": "Run",
     "Python.Ex02_IFelse_prg.executor": "Run",
+    "Python.Ex02_Loop_straight.executor": "Run",
     "Python.Ex03_Comparision_Operator.executor": "Run",
     "Python.Ex03_If_Else_3IP_MaxNumberPrg.executor": "Run",
     "Python.Ex03_If_Else_MaxNumberPrg.executor": "Run",
+    "Python.Ex03_WhileLoop.executor": "Run",
     "Python.Ex04_Maths.executor": "Run",
     "Python.Ex04_Unary_Operator.executor": "Run",
     "Python.Ex05_If_Else_Grade_Calculator.executor": "Run",
@@ -76,11 +80,14 @@
     "Python.Ex09_TriangleArea.executor": "Run",
     "Python.Ex09_UserInput.executor": "Run",
     "Python.Ex10_CheckNumber.executor": "Run",
+    "Python.Ex10_Match_Condition.executor": "Run",
     "Python.Ex10_String.executor": "Run",
+    "Python.Ex11_Match_Days.executor": "Run",
     "Python.Ex11_StringFunction.executor": "Run",
     "Python.Ex12_StringConvertion.executor": "Run",
     "Python.Ex_13_EsacapFunction.executor": "Run",
     "Python.Ex_14_AbsoluteF.executor": "Run",
+    "Python.Test.executor": "Run",
     "Python.task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -97,8 +104,8 @@
       <recent name="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class01_07102025" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex09_If_Else_TestCaseResult">
-    <configuration name="Ex01_IF_Condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ex03_WhileLoop">
+    <configuration name="Ex01_ForLoop_Reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class05_16102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class06_18102025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class05_16102025/Ex01_IF_Condition.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class06_18102025\Ex01_ForLoop_Reverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex06_If_Else_API_Response" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex01_PrintFun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class05_16102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class02_09102025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class05_16102025/Ex06_If_Else_API_Response.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class02_09102025/Ex01_PrintFun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex07_If_Else_UserLogin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex02_ForLoop_straight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class05_16102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class06_18102025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class05_16102025/Ex07_If_Else_UserLogin.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class06_18102025\Ex02_ForLoop_straight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex08_If_Else_PageLoadTime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex03_WhileLoop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class05_16102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class06_18102025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class05_16102025/Ex08_If_Else_PageLoadTime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class06_18102025/Ex03_WhileLoop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex09_If_Else_TestCaseResult" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex11_Match_Days" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,7 +206,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class05_16102025/Ex09_If_Else_TestCaseResult.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class05_16102025/Ex11_Match_Days.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex09_If_Else_TestCaseResult" />
-        <item itemvalue="Python.Ex08_If_Else_PageLoadTime" />
-        <item itemvalue="Python.Ex07_If_Else_UserLogin" />
-        <item itemvalue="Python.Ex06_If_Else_API_Response" />
-        <item itemvalue="Python.Ex01_IF_Condition" />
+        <item itemvalue="Python.Ex03_WhileLoop" />
+        <item itemvalue="Python.Ex01_ForLoop_Reverse" />
+        <item itemvalue="Python.Ex02_ForLoop_straight" />
+        <item itemvalue="Python.Ex01_PrintFun" />
+        <item itemvalue="Python.Ex11_Match_Days" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760553644658</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="16/10/2025">
+      <option name="closed" value="true" />
+      <created>1760728154099</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1760728154099</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -341,6 +356,7 @@
     <MESSAGE value="Commit 11/10/2025" />
     <MESSAGE value="Commit 12/10/2025" />
     <MESSAGE value="Commit 14/10/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 14/10/2025" />
+    <MESSAGE value="16/10/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="16/10/2025" />
   </component>
 </project>
