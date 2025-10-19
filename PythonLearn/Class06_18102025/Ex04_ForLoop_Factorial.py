@@ -6,10 +6,12 @@ Number = int(input("Enter a number: ").strip())
 fact = 1
 
 # Method 1 #
-
-for i in range(Number, 0, -1):
-    fact = fact * i
-print("Factorial of the", Number, "=", fact)
+if Number < 0:
+    print("Only Positive numbers")
+else:
+    for i in range(Number, 0, -1):
+        fact = fact * i
+    print("Factorial of the", Number, "=", fact)
 
 # Method 2 #
 
