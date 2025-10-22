@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="00b82db0-1e1e-40a6-a381-f9b409e46dfe" name="Changes" comment="18/10/2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonLearn/Class06_18102025/Ex04_ForLoop_Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonLearn/Class06_18102025/Ex04_ForLoop_Factorial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,12 +90,23 @@
     "Python.Ex12_StringConvertion.executor": "Run",
     "Python.Ex_13_EsacapFunction.executor": "Run",
     "Python.Ex_14_AbsoluteF.executor": "Run",
+    "Python.F_CountDigits.executor": "Run",
+    "Python.F_MultiplicationTable.executor": "Run",
+    "Python.F_PrintEvenNumber.executor": "Run",
+    "Python.F_SumNaturalNumbers.executor": "Run",
+    "Python.F_TrianglePattern.executor": "Run",
+    "Python.Print_1_To_10 (1).executor": "Run",
+    "Python.Print_1_To_10.executor": "Run",
     "Python.Test.executor": "Run",
+    "Python.W_MultiplicationTable.executor": "Run",
+    "Python.W_PrintEvenNumber.executor": "Run",
+    "Python.W_ReverseNumber.executor": "Run",
+    "Python.W_SumNaturalNumbers.executor": "Run",
     "Python.task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PythonLearning/pythonProject1/PythonLearn/Class05_16102025",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PythonLearning/pythonProject1",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -105,11 +115,12 @@
       <recent name="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class05_16102025" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\Practice\WhileLoop" />
       <recent name="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class01_07102025" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ex04_ForLoop_Factorial">
-    <configuration name="Ex01_ForLoop_Reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.W_ReverseNumber">
+    <configuration name="Ex10_String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class06_18102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class03_11102025" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\PythonLearn\Class06_18102025\Ex01_ForLoop_Reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class03_11102025/Ex10_String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex03_WhileLoop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="F_TrianglePattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class06_18102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/ForLoop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class06_18102025/Ex03_WhileLoop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/ForLoop/F_TrianglePattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex04_ForLoop_Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="W_CountDigits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class06_18102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/ForLoop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class06_18102025/Ex04_ForLoop_Factorial.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\HP\PycharmProjects\PythonLearning\pythonProject1\Practice\WhileLoop\W_CountDigits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex05_WhileLoop_APIresponseCode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="W_MultiplicationTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class06_18102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/WhileLoop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class06_18102025/Ex05_WhileLoop_APIresponseCode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/WhileLoop/W_MultiplicationTable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex06_WhileLoop_PageLoadingCheck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="W_ReverseNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearn/Class06_18102025" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/WhileLoop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearn/Class06_18102025/Ex06_WhileLoop_PageLoadingCheck.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/WhileLoop/W_ReverseNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,18 +232,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex04_ForLoop_Factorial" />
-        <item itemvalue="Python.Ex06_WhileLoop_PageLoadingCheck" />
-        <item itemvalue="Python.Ex05_WhileLoop_APIresponseCode" />
-        <item itemvalue="Python.Ex03_WhileLoop" />
-        <item itemvalue="Python.Ex01_ForLoop_Reverse" />
+        <item itemvalue="Python.W_ReverseNumber" />
+        <item itemvalue="Python.F_TrianglePattern" />
+        <item itemvalue="Python.W_CountDigits" />
+        <item itemvalue="Python.Ex10_String" />
+        <item itemvalue="Python.W_MultiplicationTable" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
       </set>
     </attachedChunks>
   </component>
@@ -365,7 +376,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760900894374</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="18/10/2025">
+      <option name="closed" value="true" />
+      <created>1760901620702</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1760901620703</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
