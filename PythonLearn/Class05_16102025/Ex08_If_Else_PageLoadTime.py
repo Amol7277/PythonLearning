@@ -9,3 +9,4 @@ if Time >= 0 and Time <= 3:
     print("Page load time is Good")
 else:
     print("Page load time is Slow")
+
