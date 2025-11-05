@@ -2,6 +2,7 @@
 
 global_var = "Amol"
 
+
 def outer_fun():
     print(global_var)
 
