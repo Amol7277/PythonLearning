@@ -1,9 +1,16 @@
-A = +10
-B = -10
+u1 = 5
 
-print(A)
-print(B)
+u2 = -u1
 
-X = -1
-Y = X + 1
-print(Y)
+print(u2)
+
+u3 = 95 + +2
+
+print(u3)
+
+u4=66 + ~3
+
+print(u4)
+
+u5= 200 + +2
+print(u5)
