@@ -5,7 +5,6 @@ def upper_case(string1):
 up = list(map(upper_case, lowercase))
 print(up)
 
-
 uppercase = ["APPLE","BANANA","MANGO","BLUEBARRY","CRENBARRY"]
 def lower_case(string2):
     return string2.lower()
