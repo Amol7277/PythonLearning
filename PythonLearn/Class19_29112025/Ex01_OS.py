@@ -2,11 +2,11 @@ import os
 import collections
 
 
-print(os.name)
+# print(os.name)
 # os.mkdir("Test1")
 # os.removedirs("Test")
 # os.mkdir("Test/test")
-os.rename("Test1", "mydict")
+# os.rename("Test1", "mydict")
 # os.removedirs("mydisc/test")
 # os.read("file.txt", 5)
 
@@ -14,4 +14,12 @@ os.rename("Test1", "mydict")
 
 
 
+# x = int(5)
 
+# print(x)
+
+# a = "amol"
+
+x = "Hello"[0]
+
+print(x)
